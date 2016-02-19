@@ -251,6 +251,24 @@ angular.module('yaru22.angular-timeago', [
         year: 'cirka ett år',
         years: '%d år',
         numbers: []
+      },
+      'da_DK': {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: 'siden',
+        suffixFromNow: null,
+        seconds: 'mindre end et minut',
+        minute: 'omkring et minut',
+        minutes: '%d minuter',
+        hour: 'omkring en time',
+        hours: 'omkring %d timer',
+        day: 'en dag',
+        days: '%d dage',
+        month: 'omkring en måned',
+        months: '%d måneder',
+        year: 'omkring et år',
+        years: '%d år',
+        numbers: []
       }
     }
   };
